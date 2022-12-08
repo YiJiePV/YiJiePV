@@ -1,4 +1,4 @@
-# Hi there 👋. My name is Karena and I am an young programmer currently studying computer science at Seattle Pacific University.
+# Hi there 👋. My name is Karena and I am a young programmer currently studying computer science at Seattle Pacific University.
 About the profile: The repos in my profile are mostly finished school projects I did over the past 4 years. However, that can change as I start my own projects or start contributing to open source projects.
 
 - 🌱 I’m currently learning computer science at Seattle Pacific University
