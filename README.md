@@ -7,7 +7,7 @@ About the profile: The repos in my profile are mostly finished school projects I
 - 📫 How to reach me: 
   - Email: karenaqian@outlook.com
   - LinkedIn: https://www.linkedin.com/in/karena-qian-36bb67233/
-  - Discord: karena#6118
+  - Discord: sonbla6118cmus
 - ⚡ Fun fact: I am classically trained on piano and violin for more than 10 years. I have also been playing the viola and saxophone for at least 6 months.
 
 <!--
