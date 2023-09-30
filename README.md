@@ -1,14 +1,14 @@
 # Hi there 👋. My name is Karena and I am a young programmer currently studying computer science at Seattle Pacific University.
-About the profile: The repos in my profile are mostly finished school projects I did over the past 4 years. However, that can change as I start my own projects or start contributing to open source projects.
+About the profile: The repos in my profile are mostly finished school projects I did over the past 4-5 years. However, that can change as I start my own projects or start contributing to open source projects.
 
 - 🌱 I’m currently learning computer science at Seattle Pacific University
-- 👯 I’m looking to collaborate on pretty much anything. I am undecided on which area I want to work in.
-- 🤔 I’m looking for help with improving my coding and communication skills.
+- 👯 I’m looking to collaborate on pretty much anything. I am undecided on which area I want to work in, but I am currently growing an interest in AI and Machine Learning.
+- 🤔 I’m looking for help with improving my coding and communication skills and exploring various career paths in computer science.
 - 📫 How to reach me: 
   - Email: karenaqian@outlook.com
   - LinkedIn: https://www.linkedin.com/in/karena-qian-36bb67233/
   - Discord: sonbla6118cmus
-- ⚡ Fun fact: I am classically trained on piano and violin for more than 10 years. I have also been playing the viola and saxophone for at least 6 months.
+- ⚡ Fun fact: I am classically trained on piano and violin for more than 10 years. I have also been playing the viola and saxophone for at least a year.
 
 <!--
 **YiJiePV/YiJiePV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
