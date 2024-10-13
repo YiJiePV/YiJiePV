@@ -6,7 +6,7 @@ About the profile: The repos in my profile are mostly finished school projects I
 - 🤔 I’m looking for help with improving my coding and communication skills and exploring various career paths in computer science.
 - 📫 How to reach me/get to know me: 
   - Email: karenaqian@outlook.com
-  - LinkedIn: https://www.linkedin.com/in/karena-qian-36bb67233/
+  - LinkedIn: https://www.linkedin.com/in/karena-q-36bb67233/
   - Portfolio: [click me](https://yijiepv.github.io/)
 - ⚡ Fun fact: I am classically trained on piano and violin for more than 13 years. I have also been playing the viola and saxophone for at least 2 years.
 
