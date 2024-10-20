@@ -3,7 +3,7 @@ About the profile: The repos in my profile are mostly finished school projects I
 
 - 🔭 I’m currently working towards a master's degree in artifical intelligence at the University of Texas at Austin!
 - 🌱 I graduated from Seattle Pacific University with a bachelor's degree in computer science!
-- 👯 I’m looking to collaborate on pretty much anything. I am undecided on which area I want to work in, but I am currently growing an interest in AI and Machine Learning.
+- 👯 I’m looking to collaborate on pretty much anything. I am undecided on which area I want to work in, but I am currently growing an interest in AI and Machine Learning, particularly in Reinforcement Learning.
 - 🤔 I’m looking for help with improving my coding and communication skills and exploring various career paths in computer science.
 - 📫 How to reach me/get to know me: 
   - Email: karenaqian@outlook.com
